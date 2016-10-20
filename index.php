@@ -1,11 +1,5 @@
 <?php
 
-/*
- * Copyright (C) 2002-2015 AfterLogic Corp. (www.afterlogic.com)
- * Distributed under the terms of the license described in LICENSE
- *
- */
-
 class_exists('CApi') or die();
 
 class CFooterOnLoginPlugin extends AApiPlugin
